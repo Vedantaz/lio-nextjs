@@ -1,0 +1,9 @@
+I am an Vedant 
+ 1. it is a react framework and also backend framework > because we can make api routes in it.
+ 2. It is a framework of react > and make it fast.
+
+file based routing :
+ no need to create route componenets like on react.
+
+nested routes : 
+ 
